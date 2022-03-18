@@ -1,6 +1,7 @@
 <?php
 
-use Hasanparasteh\JwtExperiments\SecureJWT;
+
+use hasanparasteh\SecureJWT;
 
 require "vendor/autoload.php";
 

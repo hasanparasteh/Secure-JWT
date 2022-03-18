@@ -1,10 +1,11 @@
 {
-  "name": "hasanparasteh/jwt-experiments",
-  "description": "This is just a demo to learn how to create a secure jwt token",
-  "type": "project",
+  "name": "hasanparasteh/secure-jwt",
+  "description": "A wrapper to help you build secure jwt tokens",
+  "license": "MIT",
+  "type": "library",
   "autoload": {
     "psr-4": {
-      "Hasanparasteh\\JwtExperiments\\": "src/"
+      "hasanparasteh\\": "src/"
     }
   },
   "authors": [

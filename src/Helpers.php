@@ -1,6 +1,6 @@
 <?php
 
-namespace Hasanparasteh\JwtExperiments;
+namespace hasanparasteh;
 
 use Sop\JWX\JWT\Claim\Claim;
 

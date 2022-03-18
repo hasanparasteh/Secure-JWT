@@ -1,6 +1,6 @@
 <?php
 
-namespace Hasanparasteh\JwtExperiments;
+namespace hasanparasteh;
 
 use Sop\CryptoEncoding\PEM;
 use Sop\JWX\JWE\EncryptionAlgorithm\A256CBCHS512Algorithm;
