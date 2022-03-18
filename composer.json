@@ -1,0 +1,20 @@
+{
+  "name": "hasanparasteh/jwt-experiments",
+  "description": "This is just a demo to learn how to create a secure jwt token",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Hasanparasteh\\JwtExperiments\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hasan Parasteh",
+      "email": "hasanparasteh@gmail.com"
+    }
+  ],
+  "require": {
+    "phpseclib/phpseclib": "^3.0",
+    "sop/jwx": "^0.11"
+  }
+}
